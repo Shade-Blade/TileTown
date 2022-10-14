@@ -1,0 +1,9 @@
+6,House2*16
+LessNull,2,1,0
+0,0,0,0,0,0
+0,House2,0,0,0,0
+0,0,House2,0,0,0
+0,0,0,House2,0,0
+0,0,0,0,House2,0
+0,0,0,0,0,0
+Red star levels: Get the lowest number of red tiles possible.

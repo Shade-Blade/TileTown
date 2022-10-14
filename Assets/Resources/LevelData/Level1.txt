@@ -1,0 +1,9 @@
+5,CarrotFarm*4
+Normal,4
+-1,-1,-1,-1,-1
+-1,0,-1,0,-1
+-1,-1,-1,-1,-1
+-1,0,-1,0,-1
+-1,-1,-1,-1,-1
+To place a tile, click on it on the left side of the screen, then click the tile to place it on
+To remove a tile, click the Remove button then click the tile you want to remove.

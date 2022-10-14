@@ -1,0 +1,9 @@
+5,CarrotFarm*9
+Normal,4,5
+-1,-1,-1,-1,-1
+-1,0,0,0,-1
+-1,0,0,0,-1
+-1,0,0,0,-1
+-1,-1,-1,-1,-1
+Carrot farms do not give you points if they are orthogonally adjacent.
+Selecting a tile will show you the tiles that can affect it.

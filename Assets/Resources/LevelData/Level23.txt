@@ -1,0 +1,8 @@
+5,CarrotFarm*12,BeanFarm*9
+AllTypes,7,8
+-1,0,0,0,-1
+0,0,0,0,0
+0,0,0,0,0
+0,0,0,0,0
+-1,0,0,0,-1
+Bean farms won't give you points if they are diagonally adjacent.

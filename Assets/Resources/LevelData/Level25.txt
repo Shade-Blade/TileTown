@@ -1,0 +1,7 @@
+5,CarrotFarm*8,PotatoFarm*8,GuardTower*8
+Normal,24
+0,0,0,0,0
+0,0,0,0,0
+0,0,0,0,0
+0,0,0,0,0
+0,0,0,0,0

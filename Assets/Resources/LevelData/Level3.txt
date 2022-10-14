@@ -1,0 +1,7 @@
+4,CarrotFarm*8,PotatoFarm*8
+Normal,8,15,16
+0,0,0,0
+0,0,0,0
+0,0,0,0
+0,0,0,0
+Potato farms work the same way as carrot farms.

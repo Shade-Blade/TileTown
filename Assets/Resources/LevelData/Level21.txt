@@ -1,0 +1,9 @@
+5,CarrotFarm*15,PotatoFarm*15,BeanFarm*15
+AllTypes,6,8
+0,0,0,0,0
+0,0,0,0,0
+0,0,0,0,0
+0,0,0,0,0
+0,0,0,0,0
+Green star levels: Your score is equal to the lowest point count for all tile types avaliable.
+For example, getting a score of 8 requires 8 carrot farms, 8 potato farms, and 8 bean farms.

@@ -1,0 +1,8 @@
+5,House0*9
+Normal,4,9
+0,0,0,0,0
+0,0,0,0,0
+0,0,0,0,0
+0,0,0,0,0
+0,0,0,0,0
+Rural houses don't give you points if adjacent in any way.

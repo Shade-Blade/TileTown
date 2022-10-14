@@ -1,0 +1,7 @@
+4,House2*9
+NoNull,1
+House2,0,0,0
+0,0,House2,0
+0,0,0,0
+0,House2,0,0
+Cyan stars act the same as yellow stars, but you can't have a single nullified tile.

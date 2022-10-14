@@ -1,0 +1,7 @@
+4,CarrotFarm*7,PotatoFarm*7
+Normal,12,14
+PotatoFarm,0,0,0
+0,0,0,0
+0,0,0,0
+0,0,PotatoFarm,0
+Tiles placed at the start of the level cannot be removed.

@@ -1,0 +1,8 @@
+5,GuardTower*10
+Normal,8,10
+0,0,0,0,0
+0,0,0,0,0
+0,0,0,0,0
+0,0,0,0,0
+0,0,0,0,0
+Guard Towers don't give you points if they are horizontally adjacent or 2 tiles apart diagonally.

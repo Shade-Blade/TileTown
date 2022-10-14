@@ -1,0 +1,8 @@
+6,CarrotFarm*7,PotatoFarm*7,BeanFarm*7,GuardTower*7,House0*7
+AllTypes,7
+0,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0
+0,0,0,0,0,0

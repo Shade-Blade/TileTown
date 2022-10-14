@@ -1,0 +1,8 @@
+5,WheatFarm*25
+Normal,9
+0,0,0,0,0
+0,0,0,0,0
+0,0,0,0,0
+0,0,0,0,0
+0,0,0,0,0
+Wheat farms don't give you points if they are orthogonally adjacent or 2 tiles away orthogonally
